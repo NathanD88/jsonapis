@@ -1,4 +1,4 @@
-{
+[{
 	[
 		btnClass: 'btn double',
 	    	btnId: 'clear',
@@ -18,4 +18,4 @@
     		value: 'x'
 	]
 	
-}
+}]
