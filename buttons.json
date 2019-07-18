@@ -16,5 +16,89 @@
     		"btnId": "multiply",
     		"btnValue": "x",
     		"value": "x"
-	}
+	},
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "seven",
+	    	"btnValue": "7",
+	    	"value": "7"
+	}, 
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "eight",
+	    	"btnValue": "8",
+	    	"value": "8"
+  	}, 
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "nine",
+	    	"btnValue": "9",
+	    	"value": "9"
+	}, 
+	{
+	    	"btnClass": "btn func",
+	    	"btnId": "subtract",
+	    	"btnValue": "-",
+	    	"value": "-"
+  	}, 
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "four",
+	    	"btnValue": "4",
+	    	"value": "4"
+  	}, 
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "five",
+	    	"btnValue": "5",
+	    	"value": "5"
+  	}, 
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "six",
+	   	"btnValue": "6",
+	   	"value": "6"
+  	}, 
+	{
+	    	"btnClass": "btn func",
+	    	"btnId": "add",
+	    	"btnValue": "+",
+	    	"value": "+"
+  	}, 
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "one",
+	    	"btnValue": "1",
+	    	"value": "1"
+  	}, 
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "two",
+	    	"btnValue": "2",
+	    	"value": "2"
+  	}, 
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "three",
+	    	"btnValue": "3",
+	    	"value": "3"
+  	}, 
+	{
+	    	"btnClass": "btn high",
+	    	"btnId": "equals",
+	    	"btnValue": "=",
+	    	"value": "="
+  	}, 
+	{
+	    	"btnClass": "btn double num",
+	    	"btnId": "zero",
+	    	"btnValue": "0",
+	    	"value": "0"
+  	}, 
+	{
+	    	"btnClass": "btn num",
+	    	"btnId": "decimal",
+	    	"btnValue": ".",
+	    	"value": "."
+  	}
 ]
