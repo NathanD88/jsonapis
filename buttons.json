@@ -1,20 +1,20 @@
 [
 	{
-		'btnClass': 'btn double',
-	    	'btnId': 'clear',
-    		'btnValue': 'AC',
-    		'value': 'AC'
+		"btnClass": "btn double",
+	    	"btnId": "clear",
+    		"btnValue": "AC",
+    		"value": "AC"
 	},
 	{
-		'btnClass': 'btn func',
-    		'btnId': 'divide',
-    		'btnValue': '/',
-    		'value': '/'
+		"btnClass": "btn func",
+    		"btnId": "divide",
+    		"btnValue": "/",
+    		"value": "/"
 	},
 	{
-		'btnClass': 'btn func',
-    		'btnId': 'multiply',
-    		'btnValue': 'x',
-    		'value': 'x'
+		"btnClass": "btn func",
+    		"btnId": "multiply",
+    		"btnValue": "x",
+    		"value": "x"
 	}
 ]
